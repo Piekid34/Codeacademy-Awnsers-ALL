@@ -1,0 +1,277 @@
+HTML & CSS
+
+1. Why Learn HTML
+	<html>
+   	<title>#1 Project.</title>
+	<strong>Hello World</strong>
+   	<strong>Hello</stromg>
+   	</html>
+
+2. HTML & CSS
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title>My awesome</title>
+	</head>
+	<body>
+	Hello world
+	</body>	
+	</html>
+
+3. Basic Technology
+	<!DOCTYPE HTML>
+	<html>
+	You Can Type Anything Here
+	</html>
+
+4. Make A Head
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title>
+	This Is Your Title
+	</title>
+	</head>
+	<body>
+	You Can Type Things Here
+	</body>	
+	</html>
+
+5. Paragraphs in the body
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title>
+	This Is Your Title
+	</title>
+	</head>
+	<body>
+	<p>
+	This Is A Paragraph
+	</p>
+	<p>
+	This is Another Paragraph
+	</p>
+	</body>	
+	</html>
+
+6. Paragraphs And Headings
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title>
+	Headings & Paragraphs
+	</title>
+	</head>
+	<body>
+	<p>
+	Paragraph 1
+	</p>
+	<p>
+	Paragraph 2
+	</p>
+	<h1>
+	Heading 1
+	</h1>
+	<h2>
+	Heading 2
+	</h2>
+	</body>
+	</html>
+
+7. More About Headings
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title>
+	Headings & Paragraphs
+	</title>
+	</head>
+	<body>
+	<p>
+	Paragraph
+	</p>
+	<p>
+	Paragraph
+	</p>
+	<p>
+	Paragraph
+	</P>
+	<h1>
+	The CEO
+	</h1>
+	<h2>
+	VP
+	</h2>
+	<h3>
+	Director
+	</h3>
+	<h4>
+	Middle Management
+	</h4>
+	<h5>
+	Lowly assistant
+	</h5>
+	<h6>
+	gets Coffee for everyone
+	</h6>
+	</body>
+	</html>
+
+8. Using Every Heading
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title>
+	Headings & Paragraphs
+	</title>	
+	</head>
+	<body>
+	<p>
+	Paragraph
+	</p>
+	<p>
+	Paragraph
+	</p>
+	<p>
+	Paragraph
+	</p>
+	</P>
+	<p>
+	</P>
+	<p>
+	<h1>
+	HI
+	</h1>
+	<h2>
+	VP HIHIHIHIIH
+	</h2>
+	<h3>
+	Director
+	</h3>
+	<h4>
+	Middle Management HIHIHIHIIH
+	</h4>
+	<h5>
+	Lowly assistant
+	</h5>
+	<h6>
+	gets Coffee for everyone HIHIHIHIIH
+	</h6>
+	</body>
+	</html>
+
+9. Mid-Lesson Breather
+	<!DOCTYPE html>
+	<html>
+
+	<head>
+	<title>
+	Headings & Paragraphs
+	</title>
+	
+	</head>
+	<body>
+	<p>
+	You Can Put something here
+	</p>
+	<p>
+	You Can Put something here
+	</p>
+	<p>
+	You Can Put something here
+
+	</p>
+	</P>
+	<p>
+	</P>
+	<p>
+	<h1>
+	The CEO
+	</h1>
+	<h2>
+	VP
+	</h2>
+	<h3>
+	Director
+	</h3>
+	<h4>
+	Middle Management
+	</h4>
+	<h5>
+	Lowly assistant
+	</h5>
+	<h6>
+	gets Coffee for everyone
+	</h6>
+	</body>
+	</html>
+
+10. You're Going Places
+	
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title></title>
+	</head>
+	<body>
+	<a href="https://www.codecademy.com">My Favorite Site!</a>
+	</body>
+	/html>
+
+11. Adding Images
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title></title>
+	</head>
+	<body>
+	<img src="https://s3.amazonaws.com/codecademy-blog/assets/f3a16fb6.jpg" />
+	<img src="https://s3.amazonaws.com/codecademy-blog/assets/f3a16fb6.jpg" />
+	</body>
+	</html>
+
+12. Click That Image
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title></title>
+	</head>
+	<body>
+	<img src="https://s3.amazonaws.com/codecademy-blog/assets/f3a16fb6.jpg" />
+	<img src="https://s3.amazonaws.com/codecademy-blog/assets/f3a16fb6.jpg" />
+	<a href="https://www.codecademy.com/">
+    	<img src="https://s3.amazonaws.com/codecademy-blog/assets/f3a16fb6.jpg"/>
+	</a>
+	</body>
+	</html>
+
+13. Images And Links
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title></title>
+	</head>
+	<body>
+	<img>"https://www.google.com/search?q=image+of+Africa+continent+HD&safe=strict&rlz=1C1SAVS_enUS682US682&tbm=isch&imgil=-qWLkfUqycJM3M%253A%253Bv31DBxMo920ZPM%253Bhttp%25253A%25252F%25252Ffeelgrafix.com%25252Fgroup%25252Fafrica.html&source=iu&pf=m&fir=-qWLkfUqycJM3M%253A%252Cv31DBxMo920ZPM%252C_&usg=__JXeJHG29z-ElymtBP5Xgz5uQ9OE%3D"<img>
+	<a href="HIHIHIHI"><img src="https://www.google.com/search?q=image+of+Africa+continent+HD&safe=strict&rlz=1C1SAVS_enUS682US682&tbm=isch&imgil=-qWLkfUqycJM3M%253A%253Bv31DBxMo920ZPM%253Bhttp%25253A%25252F%25252Ffeelgrafix.com%25252Fgroup%25252Fafrica.html&source=iu&pf=m&fir=-qWLkfUqycJM3M%253A%252Cv31DBxMo920ZPM%252C_&usg=__JXeJHG29z-ElymtBP5Xgz5uQ9OE%3D"<img>" </a>
+	<a href="website URL"></a>	
+	</body>
+	</html>
+
+14. Congratulations!
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title></title>
+	</head>
+	<body>
+	<img>"https://www.google.com/search?q=image+of+Africa+continent+HD&safe=strict&rlz=1C1SAVS_enUS682US682&tbm=isch&imgil=-qWLkfUqycJM3M%253A%253Bv31DBxMo920ZPM%253Bhttp%25253A%25252F%25252Ffeelgrafix.com%25252Fgroup%25252Fafrica.html&source=iu&pf=m&fir=-qWLkfUqycJM3M%253A%252Cv31DBxMo920ZPM%252C_&usg=__JXeJHG29z-ElymtBP5Xgz5uQ9OE%3D"<img>
+	<a href="HIHIHIHI"><img src="https://www.google.com/search?q=image+of+Africa+continent+HD&safe=strict&rlz=1C1SAVS_enUS682US682&tbm=isch&imgil=-qWLkfUqycJM3M%253A%253Bv31DBxMo920ZPM%253Bhttp%25253A%25252F%25252Ffeelgrafix.com%25252Fgroup%25252Fafrica.html&source=iu&pf=m&fir=-qWLkfUqycJM3M%253A%252Cv31DBxMo920ZPM%252C_&usg=__JXeJHG29z-ElymtBP5Xgz5uQ9OE%3D"<img>" </a>
+	<a href="website URL"></a>	
+	</body>
+	</html>
